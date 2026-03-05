@@ -1,7 +1,7 @@
 /*Esercizio A6) Il programma genera un numero naturale casuale compreso tra 1 e 10 e
  l’utente deve indovinare il numero generato, il programma termina quando viene indovinato.*/
 
- #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
